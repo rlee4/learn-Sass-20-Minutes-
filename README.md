@@ -2,6 +2,8 @@
 
 teaching material url: https://www.youtube.com/watch?v=Zz6eOVaaelI
 
-# Points
+# CASS Points
 
-1. css file can be imported
+1. Name varialbe start with \$.
+2. Use mixin implement function.
+3. scss files can be splited into multiple files, and to be imported to the main file.
